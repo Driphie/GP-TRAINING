@@ -78,23 +78,23 @@ iframe{
 .carousel-item img{
     max-height: 600px;
 }
-#resto-tittle{
+#entrenamiento{
     font-weight: bold;
     font-family: 'Poppins', sans-serif;
     text-align: center;
     padding-top: 50px;
 }
-#bares-tittle{
+#ubicacion{
     font-weight: bold;
     font-family: 'Poppins', sans-serif;
     text-align: center;
     padding-top: 50px;
 }
-#resto-tittle a{
+#entrenamiento a{
     text-decoration: none;
     color: black;
 }
-#bares-tittle a{
+#ubicacion a{
     text-decoration: none;
     color: black;
 }
