@@ -45,6 +45,9 @@ iframe{
     padding-top: 20px;
     padding-bottom: 20px;
 }
+#main-tittle h1 img{
+    width: 100px;
+}
 #main-tittle h1 span {  
     color: rgba(255, 0, 255, 0.808);
 }
@@ -105,6 +108,22 @@ iframe{
     text-align: center;
     padding: 20px;
     color: white;
+}
+.desc-ubi{
+    text-align: center;
+    font-weight: bold;
+}
+.wp2{
+    text-align: center;
+    font-size: 30px;
+}
+.wp2 a{
+    color: rgb(0, 216, 0);
+    text-decoration: none;
+}
+.wp2 p{
+    font-size: 15px;
+    font-weight: bold;
 }
 .box h2{
     font-family: 'Poppins', sans-serif;
